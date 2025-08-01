@@ -51,4 +51,9 @@ Theme customization
 🙌 Contributing
 Contributions are welcome! Please open an issue first to discuss what you would like to change.
 
+📬 Connect with Me
+
+🔗 LinkedIn - www.linkedin.com/in/bharath-b-5aa248298
+📧 Email: bharath.cse.1625@email.com
+
 Made with ❤️ by Bharath B
